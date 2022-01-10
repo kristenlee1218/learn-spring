@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdd470ee-da98-4742-9017-1b5da3ccafe2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/src/main/java/com/learn/spring/DemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/src/main/java/com/learn/spring/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/src/main/java/com/learn/spring/factory/BeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/src/main/java/com/learn/spring/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/src/main/java/com/learn/spring/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/src/main/java/com/learn/spring/factory/BeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/src/main/java/com/learn/spring/factory/BeanFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +146,7 @@
       <option name="presentableId" value="Default" />
       <updated>1641827154531</updated>
       <workItem from="1641827156557" duration="278000" />
-      <workItem from="1641827469653" duration="3459000" />
+      <workItem from="1641827469653" duration="3533000" />
     </task>
     <task id="LOCAL-00001" summary="2022.1.10">
       <created>1641827943775</created>
@@ -180,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641830526120</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2022.1.11">
+      <created>1641830991340</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641830991340</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +185,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="2022.1.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.1.10" />
+    <MESSAGE value="2022.1.11" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.1.11" />
   </component>
 </project>
