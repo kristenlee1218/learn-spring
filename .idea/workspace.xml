@@ -23,17 +23,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdd470ee-da98-4742-9017-1b5da3ccafe2" name="Changes" comment="2022.1.13">
-      <change afterPath="$PROJECT_DIR$/lesson12/lesson12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson12/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson12/src/main/java/DemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson12/src/main/java/com/learn/spring/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson12/src/main/java/com/learn/spring/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson12/src/main/java/com/learn/spring/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson12/src/main/java/com/learn/spring/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson12/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/src/main/java/com/learn/spring/dao/impl/UserDaoImpl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson13/lesson13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson13/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson13/src/main/java/SpringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson13/src/main/java/com/learn/spring/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson13/src/main/java/com/learn/spring/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson13/src/main/java/com/learn/spring/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson12/src/main/java/com/learn/spring/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson12/src/main/java/com/learn/spring/service/impl/UserServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,26 +94,19 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lesson4/src/main/java" />
-      <recent name="$PROJECT_DIR$/lesson4/src/main/resources" />
-      <recent name="$PROJECT_DIR$/lesson3/src/main/resources" />
-      <recent name="$PROJECT_DIR$/lesson3/src/main/java/com/learn/spring/service" />
-      <recent name="$PROJECT_DIR$/lesson2/src/main/resources" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.learn.spring.service.impl" />
       <recent name="com.learn.spring.service" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\idea-workspace\learn-spring\lesson12\src\main\resources" />
+      <recent name="$PROJECT_DIR$/lesson4/src/main/java" />
+      <recent name="$PROJECT_DIR$/lesson4/src/main/resources" />
+      <recent name="$PROJECT_DIR$/lesson3/src/main/resources" />
+      <recent name="$PROJECT_DIR$/lesson3/src/main/java/com/learn/spring/service" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.DemoTest (4)">
-    <configuration name="DemoTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoTest" />
-      <module name="lesson8" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SpringTest">
     <configuration name="DemoTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DemoTest" />
       <module name="lesson10" />
@@ -134,6 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpringTest" />
+      <module name="lesson13" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="lesson9" />
@@ -143,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpringTest" />
         <item itemvalue="Application.DemoTest (4)" />
         <item itemvalue="Application.DemoTest (3)" />
         <item itemvalue="Application.DemoTest (2)" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.DemoTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +168,7 @@
       <workItem from="1641864545888" duration="5225000" />
       <workItem from="1641898535723" duration="2423000" />
       <workItem from="1641903992406" duration="26000" />
-      <workItem from="1642054480519" duration="11344000" />
+      <workItem from="1642054480519" duration="13738000" />
     </task>
     <task id="LOCAL-00001" summary="2022.1.10">
       <created>1641827943775</created>
@@ -260,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642070345744</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2022.1.13">
+      <created>1642071556506</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1642071556506</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,45 +302,45 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="516" y="126" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1641904005119" />
-    <state width="1544" height="105" key="GridCell.Tab.0.bottom" timestamp="1642071386813">
+    <state width="1544" height="197" key="GridCell.Tab.0.bottom" timestamp="1642074631288">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1544" height="105" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1642071386813" />
-    <state width="1544" height="105" key="GridCell.Tab.0.center" timestamp="1642071386813">
+    <state width="1544" height="197" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1642074631288" />
+    <state width="1544" height="197" key="GridCell.Tab.0.center" timestamp="1642074631288">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1544" height="105" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1642071386813" />
-    <state width="1544" height="105" key="GridCell.Tab.0.left" timestamp="1642071386812">
+    <state width="1544" height="197" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1642074631288" />
+    <state width="1544" height="197" key="GridCell.Tab.0.left" timestamp="1642074631288">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1544" height="105" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1642071386812" />
-    <state width="1544" height="105" key="GridCell.Tab.0.right" timestamp="1642071386813">
+    <state width="1544" height="197" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1642074631288" />
+    <state width="1544" height="197" key="GridCell.Tab.0.right" timestamp="1642074631288">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1544" height="105" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1642071386813" />
+    <state width="1544" height="197" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1642074631288" />
     <state x="220" y="0" key="SettingsEditor" timestamp="1641903298939">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="220" y="0" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1641903298939" />
-    <state x="291" y="98" key="Vcs.Push.Dialog.v2" timestamp="1642070414564">
+    <state x="291" y="98" key="Vcs.Push.Dialog.v2" timestamp="1642071570196">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="291" y="98" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1642070414564" />
+    <state x="291" y="98" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1642071570196" />
     <state x="563" y="193" key="chooseDestDirectoryDialog" timestamp="1642064103185">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="563" y="193" key="chooseDestDirectoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1642064103185" />
-    <state x="0" y="13" key="new project wizard" timestamp="1642071053261">
+    <state x="0" y="13" key="new project wizard" timestamp="1642075578330">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="0" y="13" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1642071053261" />
+    <state x="0" y="13" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1642075578330" />
     <state x="379" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1642059308576">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="379" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1642059308576" />
-    <state x="357" y="39" key="spring file set editor" timestamp="1642071447041">
+    <state x="357" y="39" key="spring file set editor" timestamp="1642072228903">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="357" y="39" key="spring file set editor/0.0.1600.860@0.0.1600.860" timestamp="1642071447041" />
+    <state x="357" y="39" key="spring file set editor/0.0.1600.860@0.0.1600.860" timestamp="1642072228903" />
   </component>
 </project>
