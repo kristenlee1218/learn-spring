@@ -22,27 +22,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdd470ee-da98-4742-9017-1b5da3ccafe2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/lesson5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/src/main/java/DemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/src/main/java/com/learn/spring/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/src/main/resources/applicationContext.xml" afterDir="false" />
+    <list default="true" id="cdd470ee-da98-4742-9017-1b5da3ccafe2" name="Changes" comment="2022.1.13">
+      <change afterPath="$PROJECT_DIR$/lesson6/lesson6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/src/main/java/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/src/main/java/com/learn/spring/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/src/main/java/com/learn/spring/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/src/main/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/src/main/java/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/src/main/java/DemoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5/src/main/java/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/src/main/java/DemoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +85,7 @@
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/lesson5/src/main/java/com" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -113,7 +103,7 @@
       <recent name="com.learn.spring.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoTest (4)">
+  <component name="RunManager" selected="Application.DemoTest (5)">
     <configuration name="DemoTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.learn.spring.DemoTest" />
       <module name="lesson2" />
@@ -160,20 +150,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="DemoTest (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DemoTest" />
-      <module name="lesson1" />
+      <module name="lesson6" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoTest (5)" />
         <item itemvalue="Application.DemoTest (4)" />
         <item itemvalue="Application.DemoTest (2)" />
         <item itemvalue="Application.DemoTest (3)" />
         <item itemvalue="Application.DemoTest (1)" />
-        <item itemvalue="Application.DemoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +183,7 @@
       <workItem from="1641864545888" duration="5225000" />
       <workItem from="1641898535723" duration="2423000" />
       <workItem from="1641903992406" duration="26000" />
-      <workItem from="1642054480519" duration="4492000" />
+      <workItem from="1642054480519" duration="5843000" />
     </task>
     <task id="LOCAL-00001" summary="2022.1.10">
       <created>1641827943775</created>
@@ -230,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641831108557</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2022.1.13">
+      <created>1642064628092</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642064628092</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,48 +249,57 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="2022.1.10" />
     <MESSAGE value="2022.1.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.1.11" />
+    <MESSAGE value="2022.1.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.1.13" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="151" y="0" key="#Project_Structure" timestamp="1642064879043">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="151" y="0" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1642064879043" />
     <state x="516" y="126" key="FileChooserDialogImpl" timestamp="1641904005119">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="516" y="126" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1641904005119" />
-    <state width="1544" height="93" key="GridCell.Tab.0.bottom" timestamp="1642064309655">
+    <state width="1544" height="125" key="GridCell.Tab.0.bottom" timestamp="1642065156641">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1544" height="93" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1642064309655" />
-    <state width="1544" height="93" key="GridCell.Tab.0.center" timestamp="1642064309655">
+    <state width="1544" height="125" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1642065156641" />
+    <state width="1544" height="125" key="GridCell.Tab.0.center" timestamp="1642065156641">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1544" height="93" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1642064309655" />
-    <state width="1544" height="93" key="GridCell.Tab.0.left" timestamp="1642064309655">
+    <state width="1544" height="125" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1642065156641" />
+    <state width="1544" height="125" key="GridCell.Tab.0.left" timestamp="1642065156641">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1544" height="93" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1642064309655" />
-    <state width="1544" height="93" key="GridCell.Tab.0.right" timestamp="1642064309655">
+    <state width="1544" height="125" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1642065156641" />
+    <state width="1544" height="125" key="GridCell.Tab.0.right" timestamp="1642065156641">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1544" height="93" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1642064309655" />
+    <state width="1544" height="125" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1642065156641" />
     <state x="220" y="0" key="SettingsEditor" timestamp="1641903298939">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="220" y="0" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1641903298939" />
+    <state x="291" y="98" key="Vcs.Push.Dialog.v2" timestamp="1642064644143">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="291" y="98" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1642064644143" />
     <state x="563" y="193" key="chooseDestDirectoryDialog" timestamp="1642064103185">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="563" y="193" key="chooseDestDirectoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1642064103185" />
-    <state x="0" y="13" key="new project wizard" timestamp="1642054516116">
+    <state x="0" y="13" key="new project wizard" timestamp="1642064675260">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="0" y="13" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1642054516116" />
+    <state x="0" y="13" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1642064675260" />
     <state x="379" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1642059308576">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="379" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1642059308576" />
-    <state x="357" y="39" key="spring file set editor" timestamp="1642064197018">
+    <state x="357" y="39" key="spring file set editor" timestamp="1642064884859">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="357" y="39" key="spring file set editor/0.0.1600.860@0.0.1600.860" timestamp="1642064197018" />
+    <state x="357" y="39" key="spring file set editor/0.0.1600.860@0.0.1600.860" timestamp="1642064884859" />
   </component>
 </project>
