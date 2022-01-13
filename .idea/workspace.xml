@@ -3,11 +3,47 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cdd470ee-da98-4742-9017-1b5da3ccafe2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/lesson5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/src/main/java/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/src/main/java/com/learn/spring/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/src/main/java/com/learn/spring/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/main/java/com/learn/spring/DemoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/src/main/java/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/src/main/java/DemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +71,8 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="$USER_HOME$/dev-software/maven/maven-repository" />
-        <option name="userSettingsFile" value="$USER_HOME$/dev-software/maven/apache-maven-3.8.3/conf/settings.xml" />
+        <option name="localRepository" value="D:\maven-repository" />
+        <option name="userSettingsFile" value="D:\maven\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -55,12 +91,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson4/src/main/java" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/lesson5/src/main/java/com" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -75,7 +113,7 @@
       <recent name="com.learn.spring.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoTest (2)">
+  <component name="RunManager" selected="Application.DemoTest (4)">
     <configuration name="DemoTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.learn.spring.DemoTest" />
       <module name="lesson2" />
@@ -115,6 +153,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DemoTest (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoTest" />
+      <module name="lesson5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DemoTest" />
       <module name="lesson1" />
@@ -122,24 +167,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="lesson1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoTest (4)" />
         <item itemvalue="Application.DemoTest (2)" />
         <item itemvalue="Application.DemoTest (3)" />
         <item itemvalue="Application.DemoTest (1)" />
         <item itemvalue="Application.DemoTest" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="cdd470ee-da98-4742-9017-1b5da3ccafe2" name="Changes" comment="" />
@@ -149,6 +190,10 @@
       <updated>1641827154531</updated>
       <workItem from="1641827156557" duration="278000" />
       <workItem from="1641827469653" duration="4014000" />
+      <workItem from="1641864545888" duration="5225000" />
+      <workItem from="1641898535723" duration="2423000" />
+      <workItem from="1641903992406" duration="26000" />
+      <workItem from="1642054480519" duration="4492000" />
     </task>
     <task id="LOCAL-00001" summary="2022.1.10">
       <created>1641827943775</created>
@@ -189,12 +234,66 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="2022.1.10" />
     <MESSAGE value="2022.1.11" />
     <option name="LAST_COMMIT_MESSAGE" value="2022.1.11" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="516" y="126" key="FileChooserDialogImpl" timestamp="1641904005119">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="516" y="126" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1641904005119" />
+    <state width="1544" height="93" key="GridCell.Tab.0.bottom" timestamp="1642064309655">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1544" height="93" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1642064309655" />
+    <state width="1544" height="93" key="GridCell.Tab.0.center" timestamp="1642064309655">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1544" height="93" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1642064309655" />
+    <state width="1544" height="93" key="GridCell.Tab.0.left" timestamp="1642064309655">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1544" height="93" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1642064309655" />
+    <state width="1544" height="93" key="GridCell.Tab.0.right" timestamp="1642064309655">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1544" height="93" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1642064309655" />
+    <state x="220" y="0" key="SettingsEditor" timestamp="1641903298939">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="220" y="0" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1641903298939" />
+    <state x="563" y="193" key="chooseDestDirectoryDialog" timestamp="1642064103185">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="563" y="193" key="chooseDestDirectoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1642064103185" />
+    <state x="0" y="13" key="new project wizard" timestamp="1642054516116">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="13" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1642054516116" />
+    <state x="379" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1642059308576">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="379" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1642059308576" />
+    <state x="357" y="39" key="spring file set editor" timestamp="1642064197018">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="357" y="39" key="spring file set editor/0.0.1600.860@0.0.1600.860" timestamp="1642064197018" />
   </component>
 </project>

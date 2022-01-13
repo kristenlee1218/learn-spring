@@ -2,8 +2,8 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd">
-    <!--spring实例化工厂对象 用于创建java实例 -->
-    <bean id="beanFactory" class="com.learn.spring.factory.BeanFactory"/>
-    <!-- 被工厂创建的对象实例 -->
-    <bean id="user1" factory-bean="beanFactory" factory-method="createUser1"/>
+    <bean id="user" class="com.learn.spring.bean.User">
+        <constructor-arg name="id" value="1"/>
+        <constructor-arg name="name" value="zs"/>
+    </bean>
 </beans>
