@@ -10,6 +10,9 @@
         <module name="lesson3" />
         <module name="lesson2" />
         <module name="lesson1" />
+        <module name="lesson11" />
+        <module name="lesson10" />
+        <module name="lesson9" />
         <module name="lesson8" />
         <module name="lesson7" />
         <module name="lesson6" />
@@ -19,6 +22,8 @@
     <bytecodeTargetLevel target="8">
       <module name="learn-spring" target="8" />
       <module name="lesson1" target="8" />
+      <module name="lesson10" target="8" />
+      <module name="lesson11" target="8" />
       <module name="lesson2" target="8" />
       <module name="lesson3" target="8" />
       <module name="lesson4" target="8" />
@@ -26,6 +31,7 @@
       <module name="lesson6" target="8" />
       <module name="lesson7" target="8" />
       <module name="lesson8" target="8" />
+      <module name="lesson9" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
