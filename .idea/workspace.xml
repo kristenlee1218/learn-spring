@@ -23,18 +23,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdd470ee-da98-4742-9017-1b5da3ccafe2" name="Changes" comment="2022.1.13">
-      <change afterPath="$PROJECT_DIR$/lesson7/lesson7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/src/main/java/DemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/src/main/java/com/learn/spring/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/src/main/java/com/learn/spring/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/src/main/java/com/learn/spring/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/src/main/java/com/learn/spring/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/src/main/java/com/learn/spring/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/lesson8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/src/main/java/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/src/main/java/com/learn/spring/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/src/main/java/com/learn/spring/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/src/main/java/com/learn/spring/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/src/main/java/com/learn/spring/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/src/main/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/src/main/java/com/learn/spring/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7/src/main/java/com/learn/spring/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,23 +105,17 @@
       <recent name="com.learn.spring.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoTest">
-    <configuration name="DemoTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.spring.DemoTest" />
-      <module name="lesson3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.learn.spring.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.DemoTest (1)">
+    <configuration name="DemoTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoTest" />
+      <module name="lesson8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="DemoTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.learn.spring.DemoTest" />
-      <module name="lesson4" />
+      <module name="lesson3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.learn.spring.*" />
@@ -155,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoTest (1)" />
         <item itemvalue="Application.DemoTest" />
         <item itemvalue="Application.DemoTest (5)" />
         <item itemvalue="Application.DemoTest (4)" />
         <item itemvalue="Application.DemoTest (2)" />
-        <item itemvalue="Application.DemoTest (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +173,7 @@
       <workItem from="1641864545888" duration="5225000" />
       <workItem from="1641898535723" duration="2423000" />
       <workItem from="1641903992406" duration="26000" />
-      <workItem from="1642054480519" duration="7555000" />
+      <workItem from="1642054480519" duration="8387000" />
     </task>
     <task id="LOCAL-00001" summary="2022.1.10">
       <created>1641827943775</created>
@@ -230,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642066073740</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2022.1.13">
+      <created>1642067690943</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1642067690943</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,25 +285,25 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="220" y="0" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1641903298939" />
-    <state x="291" y="98" key="Vcs.Push.Dialog.v2" timestamp="1642066333914">
+    <state x="291" y="98" key="Vcs.Push.Dialog.v2" timestamp="1642067700898">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="291" y="98" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1642066333914" />
+    <state x="291" y="98" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1642067700898" />
     <state x="563" y="193" key="chooseDestDirectoryDialog" timestamp="1642064103185">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="563" y="193" key="chooseDestDirectoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1642064103185" />
-    <state x="0" y="13" key="new project wizard" timestamp="1642066347164">
+    <state x="0" y="13" key="new project wizard" timestamp="1642067811691">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="0" y="13" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1642066347164" />
+    <state x="0" y="13" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1642067811691" />
     <state x="379" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1642059308576">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="379" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1642059308576" />
-    <state x="357" y="39" key="spring file set editor" timestamp="1642066684818">
+    <state x="357" y="39" key="spring file set editor" timestamp="1642068475289">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="357" y="39" key="spring file set editor/0.0.1600.860@0.0.1600.860" timestamp="1642066684818" />
+    <state x="357" y="39" key="spring file set editor/0.0.1600.860@0.0.1600.860" timestamp="1642068475289" />
   </component>
 </project>
