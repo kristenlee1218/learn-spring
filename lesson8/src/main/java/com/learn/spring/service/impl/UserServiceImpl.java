@@ -24,10 +24,12 @@ public class UserServiceImpl implements UserService {
         return userDao;
     }
 
-    public void setUserDao(UserDao userDao) {
+    // public void setUserDao(UserDao userDao) {
+    public void setDao(UserDao userDao) {
         this.userDao = userDao;
     }
 
+    @Override
     public void deleteById(Integer id) {
         System.out.println("删除的方法执行");
     }
