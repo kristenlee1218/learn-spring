@@ -22,8 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdd470ee-da98-4742-9017-1b5da3ccafe2" name="Changes" comment="2022.1.14">
+    <list default="true" id="cdd470ee-da98-4742-9017-1b5da3ccafe2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson15/lesson15.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson15/lesson15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson15/src/main/java/com/learn/spring/util/ConnectionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson15/src/main/java/com/learn/spring/util/ConnectionUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson15/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson15/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +162,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -327,7 +330,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642149618054</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="2022.1.14">
+      <created>1642173540429</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1642173540429</updated>
+    </task>
+    <task id="LOCAL-00023" summary="2022.1.14">
+      <created>1642173553305</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1642173553305</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,71 +369,5 @@
     <MESSAGE value="2022.1.13" />
     <MESSAGE value="2022.1.14" />
     <option name="LAST_COMMIT_MESSAGE" value="2022.1.14" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="640" y="265" key="#Notifications" timestamp="1642147126022">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="640" y="265" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1642147126022" />
-    <state x="151" y="0" key="#Project_Structure" timestamp="1642064879043">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="151" y="0" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1642064879043" />
-    <state x="391" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1642147261040">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="391" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1642147261040" />
-    <state x="557" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1642147782059">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="557" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1642147782059" />
-    <state x="516" y="126" key="FileChooserDialogImpl" timestamp="1641904005119">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="516" y="126" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1641904005119" />
-    <state width="1544" height="348" key="GridCell.Tab.0.bottom" timestamp="1642149117282">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1544" height="348" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1642149117282" />
-    <state width="1544" height="348" key="GridCell.Tab.0.center" timestamp="1642149117282">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1544" height="348" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1642149117282" />
-    <state width="1544" height="348" key="GridCell.Tab.0.left" timestamp="1642149117282">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1544" height="348" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1642149117282" />
-    <state width="1544" height="348" key="GridCell.Tab.0.right" timestamp="1642149117282">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1544" height="348" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1642149117282" />
-    <state x="220" y="0" key="SettingsEditor" timestamp="1642129831277">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="220" y="0" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1642129831277" />
-    <state x="291" y="98" key="Vcs.Push.Dialog.v2" timestamp="1642149925293">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="291" y="98" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1642149925293" />
-    <state x="563" y="193" key="chooseDestDirectoryDialog" timestamp="1642064103185">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="563" y="193" key="chooseDestDirectoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1642064103185" />
-    <state x="388" y="175" key="git4idea.merge.GitPullDialog" timestamp="1642085623492">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="388" y="175" key="git4idea.merge.GitPullDialog/0.0.1600.860@0.0.1600.860" timestamp="1642085623492" />
-    <state x="0" y="13" key="new project wizard" timestamp="1642146409661">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="0" y="13" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1642146409661" />
-    <state x="379" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1642059308576">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="379" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1642059308576" />
-    <state x="357" y="39" key="spring file set editor" timestamp="1642072228903">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="357" y="39" key="spring file set editor/0.0.1600.860@0.0.1600.860" timestamp="1642072228903" />
   </component>
 </project>
