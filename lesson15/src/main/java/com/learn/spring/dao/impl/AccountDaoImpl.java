@@ -14,12 +14,8 @@ import java.util.List;
  * @description :
  */
 public class AccountDaoImpl implements AccountDao {
-    //数据库查询工具类
     private QueryRunner runner;
-    //数据库连接工具类
     private ConnectionUtils connectionUtils;
-    //省略 get 和 set 的方法
-
 
     public QueryRunner getRunner() {
         return runner;
@@ -37,7 +33,6 @@ public class AccountDaoImpl implements AccountDao {
         this.connectionUtils = connectionUtils;
     }
 
-    //修改账号的方法
     @Override
     public void updateAccount(Account account) {
         try {
@@ -48,7 +43,6 @@ public class AccountDaoImpl implements AccountDao {
         }
     }
 
-    //根据账号查询 Account 对象的方法
     @Override
     public Account findAccountByNum(String accountNum) {
         try {

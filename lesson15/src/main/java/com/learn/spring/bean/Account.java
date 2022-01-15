@@ -8,11 +8,8 @@ import java.io.Serializable;
  * @description :
  */
 public class Account implements Serializable {
-    //数据id
     private Integer id;
-    //账号编码
     private String accountNum;
-    //账号金额
     private Float money;
 
     public Integer getId() {

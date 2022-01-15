@@ -23,25 +23,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdd470ee-da98-4742-9017-1b5da3ccafe2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson15/lesson15.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson15/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson15/src/main/java/com/learn/spring/AccountServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson15/src/main/java/com/learn/spring/bean/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson15/src/main/java/com/learn/spring/dao/AccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson15/src/main/java/com/learn/spring/dao/impl/AccountDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson15/src/main/java/com/learn/spring/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson15/src/main/java/com/learn/spring/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson15/src/main/java/com/learn/spring/util/ConnectionUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson15/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson16/lesson16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson16/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson15/src/main/java/com/learn/spring/bean/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson15/src/main/java/com/learn/spring/bean/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson15/src/main/java/com/learn/spring/dao/impl/AccountDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson15/src/main/java/com/learn/spring/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson15/src/main/java/com/learn/spring/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson15/src/main/java/com/learn/spring/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson15/src/main/java/com/learn/spring/util/ConnectionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson15/src/main/java/com/learn/spring/util/ConnectionUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +106,7 @@
       <recent name="com.learn.spring.service" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AccountServiceTest.testTransfer">
+  <component name="RunManager" selected="JUnit.AccountServiceTest (2)">
     <configuration name="SpringTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.learn.spring.SpringTest" />
       <module name="lesson14" />
@@ -181,8 +171,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AccountServiceTest.testTransfer" />
         <item itemvalue="JUnit.AccountServiceTest (2)" />
+        <item itemvalue="JUnit.AccountServiceTest.testTransfer" />
         <item itemvalue="JUnit.AccountServiceTest" />
         <item itemvalue="JUnit.AccountServiceTest (1)" />
         <item itemvalue="Application.SpringTest (1)" />
@@ -392,7 +382,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642175633586</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="2022.1.15">
+      <created>1642250572261</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1642250572261</updated>
+    </task>
+    <task id="LOCAL-00028" summary="2022.1.15">
+      <created>1642250617534</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1642250617534</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -416,6 +420,7 @@
     <MESSAGE value="2022.1.11" />
     <MESSAGE value="2022.1.13" />
     <MESSAGE value="2022.1.14" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.1.14" />
+    <MESSAGE value="2022.1.15" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.1.15" />
   </component>
 </project>
