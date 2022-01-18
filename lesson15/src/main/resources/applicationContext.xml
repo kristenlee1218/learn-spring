@@ -20,10 +20,10 @@
     <!-- 配置数据源 -->
     <bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource">
         <!--连接数据库的必备信息-->
-        <property name="driverClass" value="com.mysql.jdbc.Driver"/>
-        <property name="jdbcUrl" value="jdbc:mysql://localhost:3306/test"/>
+        <property name="driverClass" value="com.mysql.cj.jdbc.Driver"/>
+        <property name="jdbcUrl" value="jdbc:mysql://localhost:3306/test?useSSL=false"/>
         <property name="user" value="root"/>
-        <property name="password" value="12345678"/>
+        <property name="password" value="123456"/>
     </bean>
     <!-- 配置Connection的工具类 ConnectionUtils -->
     <bean id="connectionUtils" class="com.learn.spring.util.ConnectionUtils">

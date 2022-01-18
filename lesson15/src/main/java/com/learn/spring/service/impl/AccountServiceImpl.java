@@ -31,6 +31,5 @@ public class AccountServiceImpl implements AccountService {
         accountDao.updateAccount(source);
         accountDao.updateAccount(target);
         System.out.println("转账完毕");
-
     }
 }
