@@ -1,10 +1,4 @@
 package com.learn.spring.manager;
-/**
- * @Auther: wyan
- * @Date: 2020-05-26 21:20
- * @Description:
- */
-
 
 import com.learn.spring.utils.ConnectionUtils;
 

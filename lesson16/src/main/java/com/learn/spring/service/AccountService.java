@@ -7,5 +7,4 @@ package com.learn.spring.service;
  */
 public interface AccountService {
     void transfer(String sourceAccount, String targetAccount, Integer money);
-
 }
