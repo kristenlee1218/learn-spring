@@ -22,28 +22,28 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdd470ee-da98-4742-9017-1b5da3ccafe2" name="Changes" comment="2022.1.18">
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbutils_commons_dbutils_1_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbutils_commons_dbutils_1_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_2_RELEASE.xml" afterDir="false" />
+    <list default="true" id="cdd470ee-da98-4742-9017-1b5da3ccafe2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson18/src/main/java/com/learn/spring/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson18/src/main/java/com/learn/spring/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson18/src/main/java/com/learn/spring/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson18/src/main/java/com/learn/spring/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson18/src/main/java/com/learn/spring/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson19/lesson19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson19/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson19/src/main/java/com/learn/spring/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson19/src/main/java/com/learn/spring/bean/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson19/src/main/java/com/learn/spring/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson19/src/main/java/com/learn/spring/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson19/src/main/java/com/learn/spring/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson19/src/main/java/com/learn/spring/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson19/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson16/lesson16.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson16/lesson16.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson18/lesson18.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson18/lesson18.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson18/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson18/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +117,33 @@
       <recent name="$PROJECT_DIR$/lesson4/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JdbcTemplateTest">
+  <component name="RunManager" selected="Application.AccountServiceTest (1)">
+    <configuration name="AccountServiceTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.spring.AccountServiceTest" />
+      <module name="lesson19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.spring.AccountServiceTest" />
+      <module name="lesson18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JdbcTemplateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.learn.spring.JdbcTemplateTest" />
       <module name="lesson17" />
@@ -146,37 +172,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccountServiceTest (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lesson16" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.learn.spring.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.learn.spring" />
-      <option name="MAIN_CLASS_NAME" value="com.learn.spring.AccountServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccountServiceTest.testTransfer (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lesson16" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.learn.spring.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.learn.spring" />
-      <option name="MAIN_CLASS_NAME" value="com.learn.spring.AccountServiceTest" />
-      <option name="METHOD_NAME" value="testTransfer" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="AccountServiceTest.testTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lesson15" />
       <extension name="coverage">
@@ -195,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AccountServiceTest (1)" />
+        <item itemvalue="Application.AccountServiceTest" />
         <item itemvalue="Application.JdbcTemplateTest" />
         <item itemvalue="JUnit.AccountServiceTest.testTransfer" />
         <item itemvalue="JUnit.AccountServiceTest (2)" />
-        <item itemvalue="JUnit.AccountServiceTest (3)" />
-        <item itemvalue="JUnit.AccountServiceTest.testTransfer (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +221,7 @@
       <workItem from="1642475492892" duration="157000" />
       <workItem from="1642475791627" duration="14388000" />
       <workItem from="1642507031601" duration="543000" />
-      <workItem from="1642507651009" duration="361000" />
+      <workItem from="1642507651009" duration="5179000" />
     </task>
     <task id="LOCAL-00001" summary="2022.1.10">
       <created>1641827943775</created>
@@ -466,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642496550799</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="2022.1.18">
+      <created>1642508080367</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1642508080367</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
