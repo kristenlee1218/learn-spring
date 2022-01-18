@@ -17,20 +17,20 @@ public class AccountDaoImpl implements AccountDao {
     private QueryRunner runner;
     private ConnectionUtils connectionUtils;
 
-    public void setRunner(QueryRunner runner) {
-        this.runner = runner;
-    }
-
-    public void setConnectionUtils(ConnectionUtils connectionUtils) {
-        this.connectionUtils = connectionUtils;
-    }
-
     public QueryRunner getRunner() {
         return runner;
     }
 
+    public void setRunner(QueryRunner runner) {
+        this.runner = runner;
+    }
+
     public ConnectionUtils getConnectionUtils() {
         return connectionUtils;
+    }
+
+    public void setConnectionUtils(ConnectionUtils connectionUtils) {
+        this.connectionUtils = connectionUtils;
     }
 
     @Override

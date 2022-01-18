@@ -15,6 +15,7 @@ public class ConnectionUtils {
     public void setDataSource(DataSource dataSource) {
         this.dataSource = dataSource;
     }
+
     public Connection getThreadConnection() {
         try {
             Connection conn = tl.get();
@@ -28,6 +29,7 @@ public class ConnectionUtils {
             throw new RuntimeException(e);
         }
     }
+
     public void removeConnection() {
         tl.remove();
     }

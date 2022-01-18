@@ -1,6 +1,7 @@
 package com.learn.spring.bean;
 
 import java.io.Serializable;
+
 /**
  * @author : Kristen
  * @date : 2022/1/18
